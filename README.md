@@ -11,7 +11,7 @@
 
 💻 Open to working with startups and established organizations, I'm excited about building next-gen AI products and contributing to impactful solutions.
 
-📫 Feel free to reach out to me via email at [arjun@email.com](mailto:arjun@email.com). Let's connect and shape the future through data-driven decisions!
+📫 Feel free to reach out to me via email at [heyaitzarjun@email.com](mailto:heyaitzarjun@email.com). Let's connect and shape the future through data-driven decisions!
 
 🔭 Seeking collaborations for innovative projects that solve real-world problems.
  
