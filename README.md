@@ -1,7 +1,7 @@
 ### Hi there 👋
 # Arjun - Data Analyst
 
-![Profile Picture](link-to-your-profile-picture)
+![Profile Picture](https://github.com/ArjHub/ArjHub/blob/main/jijij-removebg-preview.png)
 
 👋 Hi, I'm Arjun, a passionate Data Analyst with a focus on AI and ML!
 
