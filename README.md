@@ -1,17 +1,11 @@
 ### Hi there 👋
 ![Profile Picture](https://github.com/ArjHub/ArjHub/blob/main/Poji.jpg)
-
-👋 Hi, I'm Arjun, a passionate Data Analyst with a focus on AI and ML!
-
-💡 With expertise in data analysis, I leverage AI and ML techniques to extract valuable insights from complex datasets and drive informed decision-making.
-
-🌟 Interested in Deep Learning, MLOps, and deploying production-level systems, I actively seek collaborations on innovative projects that solve real-world problems.
-
-💻 Open to working with startups and established organizations, I'm excited about building next-gen AI products and contributing to impactful solutions.
-
-📫 Feel free to reach out to me via email at [heyaitzarjun@email.com](mailto:heyaitzarjun@email.com). Let's connect and shape the future through data-driven decisions!
-
-🔭 Seeking collaborations for innovative projects that solve real-world problems.
- 
-⚡ Fun fact: The first computer bug was a literal bug. In 1947, a moth caused a malfunction in the Harvard Mark II computer, and the term "bug" was coined to describe computer glitches.
+👋 Hi, I'm Arjun, a Cloud Data Engineer passionate about building reliable, automated, and scalable data solutions.
+💡 I specialize in designing data pipelines, automating workflows, and working with cloud services to make data accessible, secure, and production-ready. I enjoy solving complex engineering challenges and improving systems through efficient, well-structured code.
+☁️ With hands-on experience in AWS, ETL pipeline development, Python scripting, SharePoint data extraction, and automation, I focus on creating solutions that are robust, cost-efficient, and easy to maintain.
+⚙️ I'm also an active open-source contributor and continuously explore new tools and technologies to enhance my engineering skills.
+💻 Open to collaborating with teams building data-driven products, cloud-native applications, or automation-focused solutions.
+📫 Feel free to reach out at heyaitzarjun@gmail.com — always happy to connect and work on impactful ideas!
+🔭 Always exploring new ways to optimize pipelines, improve data flows, and build better cloud-native systems.
+⚡ Fun fact: The first ever “computer bug” was literally a bug — a moth stuck inside the Harvard Mark II in 1947.
 
