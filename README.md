@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Profile Picture](https://github.com/ArjHub/ArjHub/blob/main/profile.png)
+![Profile Picture](https://github.com/ArjHub/ArjHub/blob/main/image.png)
 
 👋 Hi, I'm Arjun, a Cloud Data Engineer passionate about building reliable, automated, and scalable data solutions.
 
